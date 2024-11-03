@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Include only the MGR directory and its contents
+!MGR/
+!MGR/**  # Ensures all nested files and subdirectories in MGR are included
+
+!My Games/
+!My Games/DiRT2/
+!My Games/DiRT2/savegame/
+!My Games/DiRT2/savegame/**
+
+!GTA San Andreas User Files/
+!GTA San Andreas User Files/**
