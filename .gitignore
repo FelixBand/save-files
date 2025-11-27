@@ -2,22 +2,22 @@
 *
 
 # Include only the MGR directory and its contents
-!MGR/
-!MGR/**  # Ensures all nested files and subdirectories in MGR are included
+!mgr/MGR/
+!mgr/MGR/**  # Ensures all nested files and subdirectories in MGR are included
 
-!My Games/
-!My Games/DiRT2/
-!My Games/DiRT2/savegame/
-!My Games/DiRT2/savegame/**
+!dirt2/My Games/
+!dirt2/My Games/DiRT2/
+!dirt2/My Games/DiRT2/savegame/
+!dirt2/My Games/DiRT2/savegame/**
 
-!GTA San Andreas User Files/
-!GTA San Andreas User Files/**
+!gtasa/GTA San Andreas User Files/
+!gtasa/GTA San Andreas User Files/**
 
-!Bully Scholarship Edition/
-!Bully Scholarship Edition/**
+!bully/Bully Scholarship Edition/
+!bully/Bully Scholarship Edition/**
 
-GTA San Andreas User Files/gta_sa.set
-GTA San Andreas User Files/gta_sa2.set
-GTA San Andreas User Files/SAMP/**
+gtasa/GTA San Andreas User Files/gta_sa.set
+gtasa/GTA San Andreas User Files/gta_sa2.set
+gtasa/GTA San Andreas User Files/SAMP/**
 
-Bully Scholarship Edition/ControllerSettings
+bully/Bully Scholarship Edition/ControllerSettings
