@@ -1,3 +1,7 @@
+#!/bin/bash
+
+cd ~/github/save-files
+
 git add .
 
 # Commit changes with a timestamp
