@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<hardware_settings_info>
+	<systemInfo OS=" (Build 9200)" totalMemory="4194303" winPlatformID="2" winMajorVersion="6" winMinorVersion="2" isWinXP="false" isWinVista="false" isWin7="false" rating="3" />
+	<cpu name="AMD Ryzen 5 3600 6-Core Processor" speed="3593" cores="12" hyperThreading="false" sse2Supported="true" rating="3" />
+	<graphics_card name="AMD Radeon RX 5700 XT (RADV NAVI10)" vendorId="0x1002" deviceId="0x731F" vs_shader="3_0" ps_shader="3_0" memory="4280" rating="2" dx11="true">
+		<resolution width="640" height="480" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="720" height="480" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="768" height="480" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="800" height="500" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="800" height="600" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="864" height="486" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="928" height="580" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="960" height="540" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="960" height="600" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1024" height="576" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1024" height="768" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1152" height="720" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1152" height="864" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="720" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="800" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="960" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1280" height="1024" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1368" height="768" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1400" height="1050" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1440" height="900" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1440" height="960" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1440" height="1080" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1600" height="900" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1600" height="1200" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1680" height="1050" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="800" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1080" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1200" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1280" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="1920" height="1440" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="2048" height="1152" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="2560" height="1080" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<resolution width="2560" height="1440" aspect="normal">
+			<refreshRate rate="165" />
+			<refreshRate rate="60" />
+		</resolution>
+		<capabilities a2r10g10b10="true">
+			<alpha_to_coverage supported="true" method="ATi" />
+			<multisampling>
+				<mode name="off" />
+				<mode name="2xmsaa" />
+				<mode name="4xmsaa" />
+				<mode name="8xmsaa" />
+			</multisampling>
+		</capabilities>
+	</graphics_card>
+	<audio_card audioEnabled="true">
+		<unsupported type="hardware" index="0" reverbs="1" voices="0" />
+		<mixing type="software" index="1" reverbs="1" voices="192" />
+		<unsupported type="rapture3D" index="5" reverbs="4" voices="0" />
+	</audio_card>
+</hardware_settings_info>
