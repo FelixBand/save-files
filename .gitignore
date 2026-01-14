@@ -4,6 +4,7 @@
 # Allow Git to see directories
 !*/
 !push.sh
+!pull.sh
 
 # Include specific directories and their contents
 !mgr/MGR/
