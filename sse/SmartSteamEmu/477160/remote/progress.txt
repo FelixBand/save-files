@@ -1,0 +1,1 @@
+{"version":"","progressLevel":0,"progressCheckpoint":0,"lastSaveLevel":0,"lastSaveCheckpoint":0,"lastWorkshopSaveLevel":0,"lastWorkshopSaveCheckpoint":0,"enableLevelSelect":false,"lastLevelType":0,"lastSaveSubObjectives":0,"saveVersion":1,"seenLatestLevel":false}
