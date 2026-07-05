@@ -1,0 +1,71 @@
+built: Apr  2 2025 at 10:35:49
+changelist: 4101556
+machine-name: <redacted>
+active-menu: (none)
+service-display-name: RUNE
+service-account-id: 76561197960271872
+service-type: Steam
+username: 
+gamename: t2r
+branchname: t2r-pc-1.0.0
+build-config: t2r-pc-1.0.0-t2r-x64-final
+debug-feature-used: 0
+command-line: <no arguments>
+active-jobs: ProcessExecuteProcessWorker, ScheduleExecutorWinRunGraphicsPassJob, ProcessExecuteProcessWorker, CameraUpdate, ProcessIslandJobEntryPoint, ProcessIslandNavPolysBatchEntryPoint, PrepareFgJob, ProcessIslandNavPolysBatchEntryPoint, ProcessExecuteProcessWorker, UpdatePipelineJob, ProcessExecuteProcessWorker, ProcessExecuteProcessWorker
+active-tasks: t2r-assault-t2r-street-patrol-assault
+script-call-stacks: <empty-array>
+dynamic-encounters: <empty-array>
+time-since-game-start-seconds: 144.353546
+time-since-game-start-hours: 0
+time-since-game-start-bucket: early
+gpu-name: AMD Radeon RX 5700 XT
+gpu-driver-version: 25.10
+cpu-info: AuthenticAMD AMD Ryzen 5 3600
+cpu-cores: 12
+display-resolution-width: 2560
+display-resolution-height: 1440
+os-version: Windows 10.0.26200
+windows-version: Win11
+pso-percent: -1
+last-gpu-crash-hresult-code: 0x0
+last-gpu-crash-hresult-string: S_OK
+memory-used-percent: 57
+memory-physical-total-bytes: 34267127808
+memory-physical-available-bytes: 14426480640
+memory-virtual-total-bytes: 140737488224256
+memory-virtual-available-bytes: 140168877195264
+memory-page-file-total-bytes: 43393933312
+memory-page-file-available-bytes: 727777280
+memory-commit-total-bytes: 42666156032
+memory-commit-limit-bytes: 43393933312
+memory-page-size-bytes: 4096
+vram-free-bytes: 0
+vram-used-bytes: 6234337280
+vram-budget-bytes: 6416769024
+vram-over-budget: false
+vram-buffers-used-bytes: 599444992
+vram-buffers-budget-bytes: 1275068416
+vram-shaders-used-bytes: 246288128
+vram-shaders-budget-bytes: 507510784
+vram-ndgi-used-bytes: 47175960
+vram-ndgi-budget-bytes: 136314880
+vram-ndgi-over-budget: false
+vram-ndrg-used-bytes: 11119232
+vram-ndrg-budget-bytes: 15728640
+vram-render-pool-used-bytes: 130317120
+vram-render-pool-budget-bytes: 167772160
+vram-render-globals-used-bytes: 16195888
+vram-render-globals-budget-bytes: 25165824
+shared-mem-used-bytes: 2570149888
+shared-mem-budget-bytes: 16328257536
+drive-c-total-bytes: 676087197696
+drive-c-free-bytes: 159102935040
+drive-d-total-bytes: 500088963072
+drive-d-free-bytes: 110721499136
+drive-e-total-bytes: 1000052682752
+drive-e-free-bytes: 742641639424
+drive-f-total-bytes: 500088963072
+drive-f-free-bytes: 61586276352
+drive-g-total-bytes: 1000203087872
+drive-g-free-bytes: 126845775872
+gpu-diagnostics: None
