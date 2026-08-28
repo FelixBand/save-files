@@ -17,4 +17,6 @@ sse/SmartSteamEmu/serverbrowser_hist.vdf
 tlou2/The Last of Us Part II/graphics-settings.txt
 driversf/Driver San Francisco/graphics.ini
 driversf/Driver San Francisco/offline.ini
+driversf/Driver San Francisco/FelixBand/replays/**
+driversf/Driver San Francisco/reloaded/replays/**
 .DS_Store
